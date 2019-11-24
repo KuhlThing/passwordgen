@@ -24,7 +24,7 @@ body {
   }
   .inner-section {
     padding: 20px;
-    width: 300px;\
+    width: 300px;
   }
   .wrapper {
     overflow: hidden;
@@ -116,10 +116,8 @@ body {
   #length-box input {
     width: 100%;
   }
-  input[type="checkbox"] {
-    /* visibility: hidden; */
-  }
-  label.check-label {
+  
+    label.check-label {
     position: relative;
   }
 label.check-label:before {
